@@ -23,6 +23,13 @@
 	background-size: cover;
 	background-repeat: no-repeat;
 }
+	
+.middle-img:hover{
+	transition: 0.5s;
+		transform:translate(5px,5px);
+		cursor: pointer;
+
+}
 .homeimage-container{
 	text-align: center;
 	padding-top: 5em;
