@@ -323,6 +323,8 @@ span{
 }
 .hobby img{
 	padding-top: 20px;
+	width:80px;
+	height:80px;
 }
 .hobby{
 	width: 80%;
@@ -934,7 +936,7 @@ span{
 }
 .hobby img{
 	margin-top: 30px;
-
+	width:50px;
 }
 
 @keyframes hobby{
